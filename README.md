@@ -13,3 +13,6 @@ MARIO
 now thats all for it now enjoy
 
 you can also download an Windows Linux build to use it offline btw!
+
+LINK TO THE WEB VERSION:
+https://maritosu.github.io/SSBB-UI-TEST/
