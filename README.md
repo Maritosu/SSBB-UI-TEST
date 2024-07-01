@@ -17,4 +17,4 @@ you can also download an Windows Linux build to use it offline btw!
 LINK TO THE WEB VERSION:
 https://maritosu.github.io/SSBB-UI-TEST/
 
-OR IF YOUR LAZY TO TYPE THE LINK:![Uploading qrcode_116579425_1e0f83fb5a7da4dd882d3f169b34bf13.png…]()
+OR IF YOUR LAZY TO TYPE THE LINK: ![qrcode_116579425_1e0f83fb5a7da4dd882d3f169b34bf13](https://github.com/Maritosu/SSBB-UI-TEST/assets/174013829/bfdcbb8e-6c20-479e-a81c-dd2738c2d05e)
